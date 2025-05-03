@@ -1,0 +1,6 @@
+.extract/
+target/
+.settings/
+*.wjw
+.project
+.classpath
