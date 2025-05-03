@@ -8,7 +8,9 @@
 
 * Test applet links ([https://www.baeldung.com/jsp](https://www.baeldung.com/jsp)):
 
-    *![http://64.181.215.143:8080/tutorial/ExampleOne](http://64.181.215.143:8080/tutorial/ExampleOne)
+    * [http://64.181.215.143:8080/tutorial/ExampleOne](http://64.181.215.143:8080/tutorial/ExampleOne)
+    * [http://64.181.215.143:8080/tutorial/ExampleTwo.jsp](http://64.181.215.143:8080/tutorial/ExampleTwo.jsp)
+    * [http://64.181.215.143:8080/tutorial/ExampleThree](http://64.181.215.143:8080/tutorial/ExampleThree?message=hi)
 
 ## Rust
 
