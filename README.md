@@ -1,5 +1,5 @@
-# WWLLC Documentation
 
+# WWLLC Documentation
 ## Oracle Cloud
 
 * Oracle Cloud:  (owner@walkerwest.net; [https://www.oracle.com/cloud/sign-in.html](https://www.oracle.com/cloud/sign-in.html))
@@ -10,6 +10,7 @@
 
 * Reclaiming 10GB `/var/oled`:  [https://www.reddit.com/r/oraclecloud/comments/ywwp41/reclaiming_10gb_varoled/](https://www.reddit.com/r/oraclecloud/comments/ywwp41/reclaiming_10gb_varoled/)
 * tmux shortcuts & cheatsheet:  [https://gist.github.com/MohamedAlaa/2961058](https://gist.github.com/MohamedAlaa/2961058)
+* Oh My Posh:  [https://ohmyposh.dev/docs/installation/prompt](https://ohmyposh.dev/docs/installation/prompt)
 
 ## Btrfs
 
@@ -58,6 +59,11 @@
 * Introduction to the Standard, Maven Directory Layout: [https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html](https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html)
 * Increase Maven Compiler Source & Target:  [https://stackoverflow.com/questions/53034953/error-source-option-5-is-no-longer-supported-use-6-or-later-on-maven-compile](https://stackoverflow.com/questions/53034953/error-source-option-5-is-no-longer-supported-use-6-or-later-on-maven-compile)
 * Jakarta (Java) Servlets:  [https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaServlets.html](https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaServlets.html)
+* Minimal JSP Gemini:  [https://www.google.com/search?q=java+miminal+jsp+program+jakarta+maven+command+line&client=firefox-b-1-d&sca_esv=98a6bd07f428894a&sxsrf=AHTn8zo8l7syO0i8pCdBjoRJpWtNU-Jejw%3A1745684895639&ei=nwkNaL_jJtHE0PEP156csAs&ved=0ahUKEwj_ruCAj_aMAxVRIjQIHVcPB7YQ4dUDCBA&uact=5&oq=java+miminal+jsp+program+jakarta+maven+command+line&gs_lp=Egxnd3Mtd2l6LXNlcnAiM2phdmEgbWltaW5hbCBqc3AgcHJvZ3JhbSBqYWthcnRhIG1hdmVuIGNvbW1hbmQgbGluZTIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIFECEYqwIyBRAhGKsCSNkaUOgIWNwZcAF4AZABAJgBf6ABkRCqAQQyLjE3uAEDyAEA-AEBmAIUoALDEsICChAAGLADGNYEGEfCAgUQIRifBZgDAOIDBRIBMSBAiAYBkAYIkgcEMS4xOaAHyYsBsgcEMC4xObgHixI&sclient=gws-wiz-serp](https://www.google.com/search?q=java+miminal+jsp+program+jakarta+maven+command+line&client=firefox-b-1-d&sca_esv=98a6bd07f428894a&sxsrf=AHTn8zo8l7syO0i8pCdBjoRJpWtNU-Jejw%3A1745684895639&ei=nwkNaL_jJtHE0PEP156csAs&ved=0ahUKEwj_ruCAj_aMAxVRIjQIHVcPB7YQ4dUDCBA&uact=5&oq=java+miminal+jsp+program+jakarta+maven+command+line&gs_lp=Egxnd3Mtd2l6LXNlcnAiM2phdmEgbWltaW5hbCBqc3AgcHJvZ3JhbSBqYWthcnRhIG1hdmVuIGNvbW1hbmQgbGluZTIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIFECEYqwIyBRAhGKsCSNkaUOgIWNwZcAF4AZABAJgBf6ABkRCqAQQyLjE3uAEDyAEA-AEBmAIUoALDEsICChAAGLADGNYEGEfCAgUQIRifBZgDAOIDBRIBMSBAiAYBkAYIkgcEMS4xOaAHyYsBsgcEMC4xObgHixI&sclient=gws-wiz-serp)
+
+## Github
+
+* Gemini Github with SSH:  [https://www.google.com/search?q=setup+github+to+work+with+ssh+key&oq=setup+github+to+work+with+ssh+key&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEINjgzMGowajGoAgiwAgE&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=setup+github+to+work+with+ssh+key&oq=setup+github+to+work+with+ssh+key&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEINjgzMGowajGoAgiwAgE&sourceid=chrome&ie=UTF-8:w)
 
 ## Rust
 
@@ -72,11 +78,13 @@
 ## Vim
 
 * Installing neovim:  [https://github.com/neovim/neovim/blob/master/INSTALL.md](https://github.com/neovim/neovim/blob/master/INSTALL.md)
+* Installing neovim on older distro:  [https://github.com/neovim/neovim-releases/releases](https://github.com/neovim/neovim-releases/releases)
 * Nerd Fonts:  [https://www.nerdfonts.com/font-downloads](https://www.nerdfonts.com/font-downloads)
 * LazyVIM setup:  [https://www.lazyvim.org/installation](https://www.lazyvim.org/installation)
 * LazyVIM Easy Setup for Java Dev (**don't do this**):  [https://www.reddit.com/r/neovim/comments/1d0m02a/lazyvim_the_easiest_way_to_configure_it_for_java/](https://www.reddit.com/r/neovim/comments/1d0m02a/lazyvim_the_easiest_way_to_configure_it_for_java/)
 * NvChad setup:  [https://nvchad.com/docs/quickstart/install](https://nvchad.com/docs/quickstart/install)
 * Undo / Redo:  `u` and `[CTRL]` + `r`
+* Video on developer setup: [https://www.youtube.com/watch?v=HjHKPDutG5o&t=1143s](https://www.youtube.com/watch?v=HjHKPDutG5o&t=1143s)
 
 ## Google Drive
 
@@ -97,3 +105,27 @@
 * MetalLB and KinD: Loads Balanced Locally:  [https://medium.com/@tylerauerbeck/metallb-and-kind-loads-balanced-locally-1992d60111d8](https://medium.com/@tylerauerbeck/metallb-and-kind-loads-balanced-locally-1992d60111d8)
 * Installing Helm:  [https://helm.sh/docs/intro/install/](https://helm.sh/docs/intro/install/)
 * Install Kubectl:  [https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
+
+## Oh My Posh
+
+* Install: [https://ohmyposh.dev/docs/installation/linux](https://ohmyposh.dev/docs/installation/linux)
+* Export config:  `oh-my-posh config export --output ~/.mytheme.omp.json`
+* Add the `kubectl` info above the "status" stanza:
+
+    ```
+    {
+      "type": "kubectl",
+      "style": "powerline",
+      "powerline_symbol": "",
+      "foreground": "#000000",
+      "background": "#ebcc34",
+      "template": " 󱃾 {{.Context}}{{if .Namespace}} :: {{.Namespace}}{{end}} ",
+      "properties": {
+        "context_aliases": {
+          "arn:aws:eks:eu-west-1:1234567890:cluster/posh": "posh"
+        }
+      }
+    },
+    ```
+
+* Modify the `~/.bashrc` file:  `eval "$(oh-my-posh init bash --config ~/.mytheme.omp.json)"`
